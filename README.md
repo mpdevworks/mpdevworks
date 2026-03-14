@@ -12,7 +12,7 @@
                                                                                                         \|_________|
 ```
 
-### `MP DevWorks` — Where ideas become working software.
+### `MP DevWorks` — Onde ideias viram sistemas.
 
 ![BH](https://img.shields.io/badge/Belo_Horizonte-Brasil-BFEA00?style=flat-square&labelColor=13151A)
 ![Status](https://img.shields.io/badge/Status-Open_for_projects-4ADE80?style=flat-square&labelColor=13151A)
